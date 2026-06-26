@@ -30,10 +30,10 @@ Running this project takes **two steps, in two separate terminals**.
    Open and run `mcp_calc.ipynb`. It connects to the running MCP server and
    drives the agent.
 
-## ⚠️ Ollama configuration
+## Ollama configuration
 
 The notebook's `base_url` for Ollama points to a **private local network
-address** specific to the original author's setup. Before running the notebook,
+address** specific to my setup. Before running the notebook,
 **replace that `base_url` with your own Ollama instance URL** (for example,
 `http://localhost:11434` if you run Ollama locally).
 

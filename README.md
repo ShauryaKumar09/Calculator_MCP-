@@ -5,8 +5,6 @@ A LangChain agent that connects to a custom [MCP](https://modelcontextprotocol.i
 agent can evaluate mathematical expressions by calling the calculator tool over
 MCP.
 
-This is a **LangChain course learning project** — it was built to explore how
-LangChain agents integrate with MCP servers and local LLMs.
 
 ## How it works
 
